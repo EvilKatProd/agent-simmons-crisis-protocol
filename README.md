@@ -4,7 +4,7 @@ FBI Agent John Simmons. Thirteen floors. Hostages. The cell leader.
 
 ## Download
 
-- **Windows:** [Agent-Simmons-Windows.zip](https://drive.google.com/file/d/18IEnvaXyRXTGdYKbJ2x3IW8ohOxb4ZQe/view?usp=sharing)
-- **Mac:** [Agent-Simmons-Mac.zip](https://drive.google.com/file/d/1kKEPmNR_fIVCsQQJush4pPV6_AiQXZqh/view?usp=sharing)
+- **Windows:** [Agent-Simmons-Windows.zip](https://drive.google.com/file/d/1n_jBrRTJ9z_enbYmLXukG4fq7baD2KAK/view?usp=sharing)
+- **Mac:** [Agent-Simmons-Mac.zip](https://drive.google.com/file/d/1lgubEcEbpIrKbO4hdMF3iaTd7WbSOsfT/view?usp=sharing)
 
 Unzip, then launch **Agent Simmons.exe** (Windows) or **Play Agent Simmons.command** (Mac).
